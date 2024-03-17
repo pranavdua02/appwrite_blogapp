@@ -1,5 +1,7 @@
 # Appwrite Blog Website
 
+![Appwrite Blog Website](https://github.com/pranavdua02/appwrite_blogapp/blob/main/appwrite_blog.png)
+
 ## Overview
 
 Welcome to the README for the Appwrite Blog Website! This project is a full-fledged blogging platform built using Appwrite for backend services, Clerk for authentication, and deployed on Vercel. With this platform, users can read and create blog posts, interact with other users, and enjoy a seamless and secure blogging experience.
@@ -36,8 +38,8 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 If you encounter any issues or have any questions about the Appwrite Blog Website, please don't hesitate to reach out to us.
 
-
 ---
 
 Thank you for using the Appwrite Blog Website! Happy blogging!
+
 
